@@ -15,6 +15,15 @@ Sites, books, courses to learn, increase your capacity in computer science
 - 🍏 [**W3Schools**](https://www.w3schools.com). Born for web, now full of guides that go through all the programming knowledge.
 - 🫐 [**Programiz**](https://www.programiz.com). Interactive tutorials, guides, language and basics.
 - 🎩 [**Dev.to**](https://dev.to). "DEV is a community of software developers getting together to help one another out."
+- 🦣 [**The Odin Project**](https://www.theodinproject.com). Interactive paths to become a web fullstack developer. Free courses.
+
+#### Youtube
+
+- 💬 [**Coding Tech**](https://www.youtube.com/c/CodingTech). Uploading conferences from all over the world.
+- 🚂 [**Coding Train**](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw). One of th ebest channels of youtube. Javascript and related topic (also P5).
+- 🌱 [**Coding Garden**](https://www.youtube.com/c/CodingGarden/videos). Building fun, interactive apps and explaining all to you. Also codewars series.
+- 👨‍💻 [**Derek Banas**](https://www.youtube.com/c/derekbanas). 1Hour tutorials and series on most important topics.
+- 🏕️ [**Free Code Camp**](https://www.youtube.com/c/Freecodecamp). Freecodecamp youtube channel.
 
 #### Books or related
 
