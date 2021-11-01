@@ -16,6 +16,7 @@ Sites, books, courses to learn, increase your capacity in computer science
 - 🫐 [**Programiz**](https://www.programiz.com). Interactive tutorials, guides, language and basics.
 - 🎩 [**Dev.to**](https://dev.to). "DEV is a community of software developers getting together to help one another out."
 - 🦣 [**The Odin Project**](https://www.theodinproject.com). Interactive paths to become a web fullstack developer. Free courses.
+- ➕ [**TutsPlus**](https://tutsplus.com). TUtorials and guides abount anything relative to code.
 
 #### Youtube
 
@@ -27,7 +28,8 @@ Sites, books, courses to learn, increase your capacity in computer science
 
 #### Books or related
 
-- 📘 [**Online Programming Books**](https://www.onlineprogrammingbooks.com). Easy to download PDF books on computer science topics
+- 📘 [**Online Programming Books**](https://www.onlineprogrammingbooks.com). Easy to download PDF books on computer science topics.
+- 📔 [**Free-Programming-Books**(github)](https://ebookfoundation.github.io/free-programming-books/). A not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. 
 
 ## Tools
 
@@ -37,9 +39,14 @@ Sites, social networks or software that improove the way you live computer scien
 
 - 🌌  [**Repl-it**](https://replit.com/~). Online IDE for almost any language you could imagine, cloud, sharing.
 - ⚡ [**StackBlitz**](https://stackblitz.com). Online code editor for web-apps. Fantastic UX.
-- 🪢 [**Trello**](https://trello.com/). Collaborative and management webapp, for teams but also for organizing your works
-
-
+- 🪢 [**Trello**](https://trello.com/). Collaborative and management webapp, for teams but also for organizing your works.
+- ℹ️ [**DevDocs**](https://devdocs.io). Search through any language, framework, library documentation, all in one place.
+- 🧙‍♂️ [**CSSTricks**](https://css-tricks.com). Simply css tricks.
+- 💜 [**unDraw**](https://undraw.co). Open-source illustrations for any idea you can imagine and create.
+- 🧔 [**getAvataaars**](https://getavataaars.com). Avatar icons generator.
+- 🖼️ [**RaySo**](https://ray.so). Create code images in an awesome way.
+- 🧽 [**Haikei**](https://app.haikei.app). Abstract background generator in form of polygons or blobs, gradients and more.
+- ⏺️ [**Neumorphism**](https://neumorphism.io). Generate Soft-UI CSS code.
 #### Apps
 
 - ✈️ [**JetBrains**](jetbrains.com/). I think they made best IDEs for everything you'll need.
