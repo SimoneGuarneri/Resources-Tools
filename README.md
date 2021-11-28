@@ -16,7 +16,9 @@ Sites, books, courses to learn, increase your capacity in computer science
 - 🫐 [**Programiz**](https://www.programiz.com). Interactive tutorials, guides, language and basics.
 - 🎩 [**Dev.to**](https://dev.to). "DEV is a community of software developers getting together to help one another out."
 - 🦣 [**The Odin Project**](https://www.theodinproject.com). Interactive paths to become a web fullstack developer. Free courses.
-- ➕ [**TutsPlus**](https://tutsplus.com). TUtorials and guides abount anything relative to code.
+- ➕ [**TutsPlus**](https://tutsplus.com). Tutorials and guides abount anything relative to code.
+- 🎒 [**CodeAcademy**](https://www.codecademy.com). Courses to learn languages and technologies for free (also has a pro subscription) 
+- 🔩 [**SQLBolt**](https://sqlbolt.com). Learn SQL with simple, interactive exercises.
 
 #### Youtube
 
