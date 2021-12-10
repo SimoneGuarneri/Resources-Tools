@@ -58,6 +58,7 @@ Sites, social networks or software that improove the way you live computer scien
 #### Apps
 
 - ✈️ [**JetBrains**](jetbrains.com/). I think they made best IDEs for everything you'll need.
+- ♾️ [**VsCode**](https://code.visualstudio.com). The text editor i use everyday.
 
 
 #### Socials
