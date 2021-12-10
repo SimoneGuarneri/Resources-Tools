@@ -53,7 +53,7 @@ Sites, social networks or software that improove the way you live computer scien
 - ⏺️ [**Neumorphism**](https://neumorphism.io). Generate Soft-UI CSS code.
 - 📃 [**CheckList**](https://www.checklist.design). Best design pratices presented in a form of various checklists.
 - ⚖️ [**LawsOfUX**](https://lawsofux.com). A collection of best practices that designers can consider when building user interfaces.
-
+- 📏 [**Draw.io**](https://draw.io). Tool used to create any type of diagram.
 
 #### Apps
 
