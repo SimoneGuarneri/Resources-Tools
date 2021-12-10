@@ -19,6 +19,8 @@ Sites, books, courses to learn, increase your capacity in computer science
 - ➕ [**TutsPlus**](https://tutsplus.com). Tutorials and guides abount anything relative to code.
 - 🎒 [**CodeAcademy**](https://www.codecademy.com). Courses to learn languages and technologies for free (also has a pro subscription) 
 - 🔩 [**SQLBolt**](https://sqlbolt.com). Learn SQL with simple, interactive exercises.
+- 🎓 [**Linkeding Learning**](https://www.linkedin.com/learning/). Open online course provider, hosted by linkedIn and free for students.
+- 📅 [**DataCamp**](https://www.datacamp.com). Learn machine learning and data science, free for students.
 
 #### Youtube
 
@@ -49,6 +51,10 @@ Sites, social networks or software that improove the way you live computer scien
 - 🖼️ [**RaySo**](https://ray.so). Create code images in an awesome way.
 - 🧽 [**Haikei**](https://app.haikei.app). Abstract background generator in form of polygons or blobs, gradients and more.
 - ⏺️ [**Neumorphism**](https://neumorphism.io). Generate Soft-UI CSS code.
+- 📃 [**CheckList**](https://www.checklist.design). Best design pratices presented in a form of various checklists.
+- ⚖️ [**LawsOfUX**](https://lawsofux.com). A collection of best practices that designers can consider when building user interfaces.
+
+
 #### Apps
 
 - ✈️ [**JetBrains**](jetbrains.com/). I think they made best IDEs for everything you'll need.
