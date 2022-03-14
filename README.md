@@ -66,12 +66,12 @@ Sites, social networks or software that improove the way you live computer scien
 - ♾️ [**VsCode**](https://code.visualstudio.com). The text editor i use everyday.
 
 #### Font Sites Section
--💕[**FontJoy**](https://fontjoy.com/). Font pairings in seconds.
--🔠[**Open-Foudry**](https://open-foundry.com/fonts)
--🔠[**LeagueofMovableType**](https://www.theleagueofmoveabletype.com)
--🔠[**LostType**](http://www.losttype.com/browse/)
--🔠[**Awwwards Font**](https://www.awwwards.com/awwwards/collections/free-fonts/)
--🔠[**Google Fonts**](https://fonts.google.com/)
+- 💕[**FontJoy**](https://fontjoy.com/). Font pairings in seconds.
+- 🔠[**Open-Foudry**](https://open-foundry.com/fonts)
+- 🔠[**LeagueofMovableType**](https://www.theleagueofmoveabletype.com)
+- 🔠[**LostType**](http://www.losttype.com/browse/)
+- 🔠[**Awwwards Font**](https://www.awwwards.com/awwwards/collections/free-fonts/)
+- 🔠[**Google Fonts**](https://fonts.google.com/)
 
 #### Socials
 
