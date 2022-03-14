@@ -54,12 +54,24 @@ Sites, social networks or software that improove the way you live computer scien
 - 📃 [**CheckList**](https://www.checklist.design). Best design pratices presented in a form of various checklists.
 - ⚖️ [**LawsOfUX**](https://lawsofux.com). A collection of best practices that designers can consider when building user interfaces.
 - 📏 [**Draw.io**](https://draw.io). Tool used to create any type of diagram.
+- 📷 [**Pexels**](https://www.pexels.com). Free photos of any kind.
+- 📐 [**LucidCharts**](https://www.lucidchart.com/pages/). Another tool used to create diagrams of any type.
+- 🏳️‍🌈 [**Coolors**](https://coolors.co/). Cool palettes.
+- 🟢 [**Icons8**](https://icons8.com/). Icons, photos, vector illustrations,
+
 
 #### Apps
 
 - ✈️ [**JetBrains**](jetbrains.com/). I think they made best IDEs for everything you'll need.
 - ♾️ [**VsCode**](https://code.visualstudio.com). The text editor i use everyday.
 
+#### Font Sites Section
+-💕[**FontJoy**](https://fontjoy.com/). Font pairings in seconds.
+-🔠[**Open-Foudry**](https://open-foundry.com/fonts)
+-🔠[**LeagueofMovableType**](https://www.theleagueofmoveabletype.com)
+-🔠[**LostType**](http://www.losttype.com/browse/)
+-🔠[**Awwwards Font**](https://www.awwwards.com/awwwards/collections/free-fonts/)
+-🔠[**Google Fonts**](https://fonts.google.com/)
 
 #### Socials
 
