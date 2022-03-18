@@ -29,6 +29,7 @@ Sites, books, courses to learn, increase your capacity in computer science
 - 🌱 [**Coding Garden**](https://www.youtube.com/c/CodingGarden/videos). Building fun, interactive apps and explaining all to you. Also codewars series.
 - 👨‍💻 [**Derek Banas**](https://www.youtube.com/c/derekbanas). 1Hour tutorials and series on most important topics.
 - 🏕️ [**Free Code Camp**](https://www.youtube.com/c/Freecodecamp). Freecodecamp youtube channel.
+- 🏙 [**Coding in Public**](https://www.youtube.com/channel/UCUSxKiac-miugK9CDsxGS9Q). Beginner to intermediate web dev tutorials.
 
 #### Books or related
 
