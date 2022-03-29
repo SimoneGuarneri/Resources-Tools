@@ -38,7 +38,7 @@ Sites, books, courses to learn, increase your capacity in computer science
 
 ## Tools
 
-Sites, social networks or software that improove the way you live computer science, from hobby to work
+Sites, social networks or software that improove the way you live computer science and design, from hobby to work
 
 #### Sites
 
@@ -59,7 +59,7 @@ Sites, social networks or software that improove the way you live computer scien
 - 📐 [**LucidCharts**](https://www.lucidchart.com/pages/). Another tool used to create diagrams of any type.
 - 🏳️‍🌈 [**Coolors**](https://coolors.co/). Cool palettes.
 - 🟢 [**Icons8**](https://icons8.com/). Icons, photos, vector illustrations,
-
+- 🪒 [**Sharpen**](https://sharpen.design). Design challenges made easy.
 
 #### Apps
 
