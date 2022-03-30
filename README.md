@@ -73,6 +73,7 @@ Sites, social networks or software that improove the way you live computer scien
 - 🔠[**LostType**](http://www.losttype.com/browse/)
 - 🔠[**Awwwards Font**](https://www.awwwards.com/awwwards/collections/free-fonts/)
 - 🔠[**Google Fonts**](https://fonts.google.com/)
+- 🔠[**Font Share**](https://www.fontshare.com)
 
 #### Socials
 
