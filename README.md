@@ -29,7 +29,9 @@ Sites, books, courses to learn, increase your capacity in computer science
 - 🌱 [**Coding Garden**](https://www.youtube.com/c/CodingGarden/videos). Building fun, interactive apps and explaining all to you. Also codewars series.
 - 👨‍💻 [**Derek Banas**](https://www.youtube.com/c/derekbanas). 1Hour tutorials and series on most important topics.
 - 🏕️ [**Free Code Camp**](https://www.youtube.com/c/Freecodecamp). Freecodecamp youtube channel.
-- 🏙 [**Coding in Public**](https://www.youtube.com/channel/UCUSxKiac-miugK9CDsxGS9Q). Beginner to intermediate web dev tutorials.
+- 🥷🏽 [**The Net Ninja**](https://www.youtube.com/c/TheNetNinja). FullStack tutorials.
+- 🔥 [**FireShip**](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA). High intensity code tutorials.
+- 📢 [**Coding in Public**](https://www.youtube.com/channel/UCUSxKiac-miugK9CDsxGS9Q). Beginner to intermediate web dev tutorials.
 
 #### Books or related
 
@@ -60,6 +62,8 @@ Sites, social networks or software that improove the way you live computer scien
 - 🏳️‍🌈 [**Coolors**](https://coolors.co/). Cool palettes.
 - 🟢 [**Icons8**](https://icons8.com/). Icons, photos, vector illustrations,
 - 🪒 [**Sharpen**](https://sharpen.design). Design challenges made easy.
+- 📸 [**Lorem Picsum**](https://picsum.photos). Lorem Ipsum for photos.
+- ✏️ [**Doodle Ipsum**](https://doodleipsum.com). Lorem Ipsum for doodles.
 
 #### Apps
 
@@ -78,3 +82,4 @@ Sites, social networks or software that improove the way you live computer scien
 #### Socials
 
 - 🤝[**Linkedin**](https://www.linkedin.com). Must have social network to find jobs, people.
+- 🟠 [**Reddit**](https://reddit.com). Really nice social to interact with programmers or designers communities, maybe in local area
