@@ -3,7 +3,7 @@
 
 ### Resources 📚 
 
-Sites, books, courses to learn, increase your capacity in computer science
+Sites, books, courses to learn, increase your capacity in computer science and Design
 
 #### Sites 
 
