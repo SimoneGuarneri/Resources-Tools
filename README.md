@@ -21,6 +21,9 @@ Sites, books, courses to learn, increase your capacity in computer science and D
 - 🔩 [**SQLBolt**](https://sqlbolt.com). Learn SQL with simple, interactive exercises.
 - 🎓 [**Linkeding Learning**](https://www.linkedin.com/learning/). Open online course provider, hosted by linkedIn and free for students.
 - 📅 [**DataCamp**](https://www.datacamp.com). Learn machine learning and data science, free for students.
+- 🔵 [**Coursera**](https://www.coursera.org). Online degrees, courses and certifications from the best companies in the industry.
+- 🟦 [**EDx**](https://www.edx.org). Online degrees, courses and certifications from the best companies in the industry. 
+- ⭐ [**ui.dev**](https://ui.dev). Tutorial and guides, mainly on javascript.
 
 #### Youtube
 
@@ -32,6 +35,7 @@ Sites, books, courses to learn, increase your capacity in computer science and D
 - 🥷🏽 [**The Net Ninja**](https://www.youtube.com/c/TheNetNinja). FullStack tutorials.
 - 🔥 [**FireShip**](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA). High intensity code tutorials.
 - 📢 [**Coding in Public**](https://www.youtube.com/channel/UCUSxKiac-miugK9CDsxGS9Q). Beginner to intermediate web dev tutorials.
+- ➿ [**WebDev Simplyfied**](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw). Beginner tutorials to become full-stack.
 
 #### Books or related
 
@@ -64,6 +68,7 @@ Sites, social networks or software that improove the way you live computer scien
 - 🪒 [**Sharpen**](https://sharpen.design). Design challenges made easy.
 - 📸 [**Lorem Picsum**](https://picsum.photos). Lorem Ipsum for photos.
 - ✏️ [**Doodle Ipsum**](https://doodleipsum.com). Lorem Ipsum for doodles.
+- 🌠 [**Open Props**](https://open-props.style/). Supercharged CSS variables, super useful.
 
 #### Apps
 
