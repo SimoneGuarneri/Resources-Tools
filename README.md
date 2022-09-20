@@ -41,6 +41,7 @@ Sites, books, courses to learn, increase your capacity in computer science and D
 
 - 📘 [**Online Programming Books**](https://www.onlineprogrammingbooks.com). Easy to download PDF books on computer science topics.
 - 📔 [**Free-Programming-Books**(github)](https://ebookfoundation.github.io/free-programming-books/). A not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. 
+- ⛰️ [**The Valley of Code**](https://thevalleyofcode.com/ebooks/). Short handbooks on everything you need.
 
 ## Tools
 
