@@ -24,6 +24,7 @@ Sites, books, courses to learn, increase your capacity in computer science and D
 - 🔵 [**Coursera**](https://www.coursera.org). Online degrees, courses and certifications from the best companies in the industry.
 - 🟦 [**EDx**](https://www.edx.org). Online degrees, courses and certifications from the best companies in the industry. 
 - ⭐ [**ui.dev**](https://ui.dev). Tutorial and guides, mainly on javascript.
+- 📜 [**Academy Hubspot**](http://academy.hubspot.com). Free courses and certification in every kind of thing.
 
 #### Youtube
 
@@ -70,22 +71,27 @@ Sites, social networks or software that improove the way you live computer scien
 - 📸 [**Lorem Picsum**](https://picsum.photos). Lorem Ipsum for photos.
 - ✏️ [**Doodle Ipsum**](https://doodleipsum.com). Lorem Ipsum for doodles.
 - 🌠 [**Open Props**](https://open-props.style/). Supercharged CSS variables, super useful.
+- 🟣 [**123Apps**](http://123apps.com). A lot of free tools and apps.
+- 🖌️ [**Tylify**](https://tylify.app). Create patterns easly.
+- 🤙🏽 [**Open Peeps**](https://www.openpeeps.com). Hand-drawn illustration library to create scenes of people.
 
 #### Apps
 
 - ✈️ [**JetBrains**](jetbrains.com/). I think they made best IDEs for everything you'll need.
 - ♾️ [**VsCode**](https://code.visualstudio.com). The text editor i use everyday.
+- 📟 [**HyperJs**](https://hyper.is). Hyper is the terminal i use everyday.
 
 #### Font Sites Section
-- 💕[**FontJoy**](https://fontjoy.com/). Font pairings in seconds.
-- 🔠[**Open-Foudry**](https://open-foundry.com/fonts)
-- 🔠[**LeagueofMovableType**](https://www.theleagueofmoveabletype.com)
-- 🔠[**LostType**](http://www.losttype.com/browse/)
-- 🔠[**Awwwards Font**](https://www.awwwards.com/awwwards/collections/free-fonts/)
-- 🔠[**Google Fonts**](https://fonts.google.com/)
-- 🔠[**Font Share**](https://www.fontshare.com)
+- 💕 [**FontJoy**](https://fontjoy.com/). Font pairings in seconds.
+- 🔠 [**Open-Foudry**](https://open-foundry.com/fonts)
+- 🔠 [**LeagueofMovableType**](https://www.theleagueofmoveabletype.com)
+- 🔠 [**LostType**](http://www.losttype.com/browse/)
+- 🔠 [**Awwwards Font**](https://www.awwwards.com/awwwards/collections/free-fonts/)
+- 🔠 [**Google Fonts**](https://fonts.google.com/)
+- 🔠 [**Font Share**](https://www.fontshare.com)
+- 🔡 [**Behance Fonts**](https://www.behance.net/search/projects/?search=Free+font)
 
 #### Socials
 
-- 🤝[**Linkedin**](https://www.linkedin.com). Must have social network to find jobs, people.
+- 🔵 [**Linkedin**](https://www.linkedin.com). Must have social network to find jobs, people.
 - 🟠 [**Reddit**](https://reddit.com). Really nice social to interact with programmers or designers communities, maybe in local area
