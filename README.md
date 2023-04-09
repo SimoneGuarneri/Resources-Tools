@@ -50,10 +50,10 @@ Sites, social networks or software that improove the way you live computer scien
 
 #### Artificial Intelligence Section
 
-##### _Note that this list will be the fastest to be outdated, for this reason i highly succest you looking also at the FutureTools site_
+_Note that this list will be the fastest to be outdated, for this reason i highly succest you looking also at the FutureTools site_
 
 - 🧠 [**FutureTools**](https://www.futuretools.io/). Collects & Organizes All The Best AI Tools.
-
+------
 - 🌵 [**Caktus Student**](https://www.caktus.ai/caktus_student). Every tool you need to enhance your student experience. (I'm not responsable by the usage)
 - 🧙🏽‍♂️ [**Wisdolia**](https://chrome.google.com/webstore/detail/wisdolia/). Extension used to automatically generate flashcards from any article, PDF, or YouTube video to improve retention, using AI.
 - 👟 [**Runawayml**](https://chrome.google.com/webstore/detail/wisdolia/). Tools for creatives such as text to video, text to image, etc.
