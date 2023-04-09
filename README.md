@@ -1,7 +1,7 @@
-# Resources & Tools 💻🌲
+# Resources & Tools (Now with AI Section) 💻🧠🌲
 ##### _A list of all of tools and resources i personally use or recommend_ 
 
-### Resources 📚 
+## Resources 📚 
 
 Sites, books, courses to learn, increase your capacity in computer science and Design
 
@@ -48,9 +48,28 @@ Sites, books, courses to learn, increase your capacity in computer science and D
 
 Sites, social networks or software that improove the way you live computer science and design, from hobby to work
 
+#### Artificial Intelligence Section
+
+##### _Note that this list will be the fastest to be outdated, for this reason i highly succest you looking also at the FutureTools site_
+
+- 🧠 [**FutureTools**](https://www.futuretools.io/). Collects & Organizes All The Best AI Tools.
+
+- 🌵 [**Caktus Student**](https://www.caktus.ai/caktus_student). Every tool you need to enhance your student experience. (I'm not responsable by the usage)
+- 🧙🏽‍♂️ [**Wisdolia**](https://chrome.google.com/webstore/detail/wisdolia/). Extension used to automatically generate flashcards from any article, PDF, or YouTube video to improve retention, using AI.
+- 👟 [**Runawayml**](https://chrome.google.com/webstore/detail/wisdolia/). Tools for creatives such as text to video, text to image, etc.
+- ✏️ [**Autodraw **](https://www.autodraw.com/). Draw beautiful sketches with the help of ai.
+- 🟣 [**Soundraw**](https://soundraw.io/). Generate every type of music you want for your projects.
+- 🔵 [**Mubert**](https://mubert.com/). Like Sounddraw but free, little bit less options.
+- ❌ [**Mixo**](https://app.mixo.io/). AI-powered page builder to launch and validate your startup ideas.
+- 🗣️ [**ElevenLabs**](https://beta.elevenlabs.io/). Text to voice ai.
+- ✒️ [**Looka**](https://looka.com). Pretty interesting logo generator.
+- 🧑🏽‍🦰 [**Synthesia**](https://www.synthesia.io/). Create professional videos in minutes, just type the text and choose the "person" that will read.
+- 📖 [**Tome**](https://beta.tome.app/). AI storytelling partner.
+
+
 #### Sites
 
-- 🌌  [**Repl-it**](https://replit.com/~). Online IDE for almost any language you could imagine, cloud, sharing.
+- 🌌 [**Repl-it**](https://replit.com/~). Online IDE for almost any language you could imagine, cloud, sharing.
 - ⚡ [**StackBlitz**](https://stackblitz.com). Online code editor for web-apps. Fantastic UX.
 - 🪢 [**Trello**](https://trello.com/). Collaborative and management webapp, for teams but also for organizing your works.
 - ℹ️ [**DevDocs**](https://devdocs.io). Search through any language, framework, library documentation, all in one place.
@@ -74,6 +93,15 @@ Sites, social networks or software that improove the way you live computer scien
 - 🟣 [**123Apps**](http://123apps.com). A lot of free tools and apps.
 - 🖌️ [**Tylify**](https://tylify.app). Create patterns easly.
 - 🤙🏽 [**Open Peeps**](https://www.openpeeps.com). Hand-drawn illustration library to create scenes of people.
+- 🥃 [**Shotso**](https://shots.so/). Best mockup site hands down.
+- 📄 [**RxResume**](https://rxresu.me/). Free and open source resume builder.
+- 💃🏽 [**Tango**](https://www.tango.us/). Create how-to guides with screenshots, in seconds
+- 🟡 [**HoppyCopy**](https://www.hoppycopy.co/). Write high-converting emails in a smart and fast way.
+- 📔 [**Coverr**](https://coverr.co/). Beautiful Free Stock Video Footage.
+- 🤯 [**UnTools**](https://untools.co/). Tools to think better.
+- 🎋 [**Flourish**](https://flourish.studio/). Beautiful and easy data visualization and storytelling.
+- 🐶 [**Blush**](https://blush.design/). Easily create and customize stunning illustrations.
+- 🔥 [**Fireflies**].(https://fireflies.ai/). Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
 
 #### Apps
 
@@ -82,6 +110,7 @@ Sites, social networks or software that improove the way you live computer scien
 - 📟 [**HyperJs**](https://hyper.is). Hyper is the terminal i use everyday.
 
 #### Font Sites Section
+
 - 💕 [**FontJoy**](https://fontjoy.com/). Font pairings in seconds.
 - 🔠 [**Open-Foudry**](https://open-foundry.com/fonts)
 - 🔠 [**LeagueofMovableType**](https://www.theleagueofmoveabletype.com)
@@ -95,3 +124,4 @@ Sites, social networks or software that improove the way you live computer scien
 
 - 🔵 [**Linkedin**](https://www.linkedin.com). Must have social network to find jobs, people.
 - 🟠 [**Reddit**](https://reddit.com). Really nice social to interact with programmers or designers communities, maybe in local area
+- ⚫ [**Savee**](https://savee.it). Browse and save curated inspiration from designers all around the world.
