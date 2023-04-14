@@ -101,7 +101,7 @@ _Note that this list will be the fastest to be outdated, for this reason i highl
 - 🤯 [**UnTools**](https://untools.co/). Tools to think better.
 - 🎋 [**Flourish**](https://flourish.studio/). Beautiful and easy data visualization and storytelling.
 - 🐶 [**Blush**](https://blush.design/). Easily create and customize stunning illustrations.
-- 🔥 [**Fireflies**].(https://fireflies.ai/). Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
+- 🔥 [**Fireflies**](https://fireflies.ai/). Fireflies.ai helps your team record, transcribe, search, and analyze voice conversations.
 
 #### Apps
 
