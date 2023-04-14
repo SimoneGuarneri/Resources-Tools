@@ -57,7 +57,7 @@ _Note that this list will be the fastest to be outdated, for this reason i highl
 - 🌵 [**Caktus Student**](https://www.caktus.ai/caktus_student). Every tool you need to enhance your student experience. (I'm not responsable by the usage)
 - 🧙🏽‍♂️ [**Wisdolia**](https://chrome.google.com/webstore/detail/wisdolia/). Extension used to automatically generate flashcards from any article, PDF, or YouTube video to improve retention, using AI.
 - 👟 [**Runawayml**](https://chrome.google.com/webstore/detail/wisdolia/). Tools for creatives such as text to video, text to image, etc.
-- ✏️ [**Autodraw **](https://www.autodraw.com/). Draw beautiful sketches with the help of ai.
+- ✏️ [**Autodraw**](https://www.autodraw.com/). Draw beautiful sketches with the help of ai.
 - 🟣 [**Soundraw**](https://soundraw.io/). Generate every type of music you want for your projects.
 - 🔵 [**Mubert**](https://mubert.com/). Like Sounddraw but free, little bit less options.
 - ❌ [**Mixo**](https://app.mixo.io/). AI-powered page builder to launch and validate your startup ideas.
